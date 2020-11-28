@@ -1,0 +1,26 @@
+{
+    "filter": [
+        "TITLE",
+        "KEY",
+        "SRCTITLE",
+        "ABS"
+    ],
+    "management": [
+        "change management",
+        "digital management",
+        "innovation management",
+        "organizational change",
+        "technological innovation",
+        "idea management",
+        "knowledge innovation",
+        "economic innovation"
+    ],
+    "iot": [
+        "industry 4.0",
+        "iot",
+        "smart factory",
+        "internet of things",
+        "cyber phycal system",
+        "wireless sensor network"
+    ]
+}

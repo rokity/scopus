@@ -1,1 +1,193 @@
 filter,management,iot,result
+TITLE,change management,industry 4.0,4.0
+TITLE,change management,iot,4.0
+TITLE,change management,smart factory,0.0
+TITLE,change management,internet of things,1.0
+TITLE,change management,cyber phycal system,0.0
+TITLE,change management,wireless sensor network,0.0
+TITLE,digital management,industry 4.0,9.0
+TITLE,digital management,iot,10.0
+TITLE,digital management,smart factory,1.0
+TITLE,digital management,internet of things,10.0
+TITLE,digital management,cyber phycal system,0.0
+TITLE,digital management,wireless sensor network,2.0
+TITLE,innovation management,industry 4.0,5.0
+TITLE,innovation management,iot,5.0
+TITLE,innovation management,smart factory,0.0
+TITLE,innovation management,internet of things,8.0
+TITLE,innovation management,cyber phycal system,0.0
+TITLE,innovation management,wireless sensor network,0.0
+TITLE,organizational change,industry 4.0,2.0
+TITLE,organizational change,iot,1.0
+TITLE,organizational change,smart factory,0.0
+TITLE,organizational change,internet of things,0.0
+TITLE,organizational change,cyber phycal system,0.0
+TITLE,organizational change,wireless sensor network,0.0
+TITLE,technological innovation,industry 4.0,5.0
+TITLE,technological innovation,iot,2.0
+TITLE,technological innovation,smart factory,0.0
+TITLE,technological innovation,internet of things,6.0
+TITLE,technological innovation,cyber phycal system,0.0
+TITLE,technological innovation,wireless sensor network,0.0
+TITLE,idea management,industry 4.0,0.0
+TITLE,idea management,iot,2.0
+TITLE,idea management,smart factory,0.0
+TITLE,idea management,internet of things,0.0
+TITLE,idea management,cyber phycal system,0.0
+TITLE,idea management,wireless sensor network,0.0
+TITLE,knowledge innovation,industry 4.0,2.0
+TITLE,knowledge innovation,iot,0.0
+TITLE,knowledge innovation,smart factory,0.0
+TITLE,knowledge innovation,internet of things,2.0
+TITLE,knowledge innovation,cyber phycal system,0.0
+TITLE,knowledge innovation,wireless sensor network,0.0
+TITLE,economic innovation,industry 4.0,1.0
+TITLE,economic innovation,iot,0.0
+TITLE,economic innovation,smart factory,0.0
+TITLE,economic innovation,internet of things,1.0
+TITLE,economic innovation,cyber phycal system,0.0
+TITLE,economic innovation,wireless sensor network,0.0
+KEY,change management,industry 4.0,41.0
+KEY,change management,iot,78.0
+KEY,change management,smart factory,4.0
+KEY,change management,internet of things,152.0
+KEY,change management,cyber phycal system,0.0
+KEY,change management,wireless sensor network,88.0
+KEY,digital management,industry 4.0,314.0
+KEY,digital management,iot,755.0
+KEY,digital management,smart factory,37.0
+KEY,digital management,internet of things,1215.0
+KEY,digital management,cyber phycal system,0.0
+KEY,digital management,wireless sensor network,420.0
+KEY,innovation management,industry 4.0,100.0
+KEY,innovation management,iot,84.0
+KEY,innovation management,smart factory,5.0
+KEY,innovation management,internet of things,154.0
+KEY,innovation management,cyber phycal system,0.0
+KEY,innovation management,wireless sensor network,33.0
+KEY,organizational change,industry 4.0,18.0
+KEY,organizational change,iot,7.0
+KEY,organizational change,smart factory,2.0
+KEY,organizational change,internet of things,14.0
+KEY,organizational change,cyber phycal system,0.0
+KEY,organizational change,wireless sensor network,1.0
+KEY,technological innovation,industry 4.0,87.0
+KEY,technological innovation,iot,85.0
+KEY,technological innovation,smart factory,4.0
+KEY,technological innovation,internet of things,155.0
+KEY,technological innovation,cyber phycal system,0.0
+KEY,technological innovation,wireless sensor network,29.0
+KEY,idea management,industry 4.0,0.0
+KEY,idea management,iot,4.0
+KEY,idea management,smart factory,0.0
+KEY,idea management,internet of things,6.0
+KEY,idea management,cyber phycal system,0.0
+KEY,idea management,wireless sensor network,5.0
+KEY,knowledge innovation,industry 4.0,31.0
+KEY,knowledge innovation,iot,11.0
+KEY,knowledge innovation,smart factory,2.0
+KEY,knowledge innovation,internet of things,28.0
+KEY,knowledge innovation,cyber phycal system,0.0
+KEY,knowledge innovation,wireless sensor network,4.0
+KEY,economic innovation,industry 4.0,27.0
+KEY,economic innovation,iot,20.0
+KEY,economic innovation,smart factory,0.0
+KEY,economic innovation,internet of things,35.0
+KEY,economic innovation,cyber phycal system,0.0
+KEY,economic innovation,wireless sensor network,6.0
+SRCTITLE,change management,industry 4.0,0.0
+SRCTITLE,change management,iot,0.0
+SRCTITLE,change management,smart factory,0.0
+SRCTITLE,change management,internet of things,0.0
+SRCTITLE,change management,cyber phycal system,0.0
+SRCTITLE,change management,wireless sensor network,0.0
+SRCTITLE,digital management,industry 4.0,0.0
+SRCTITLE,digital management,iot,0.0
+SRCTITLE,digital management,smart factory,0.0
+SRCTITLE,digital management,internet of things,0.0
+SRCTITLE,digital management,cyber phycal system,0.0
+SRCTITLE,digital management,wireless sensor network,0.0
+SRCTITLE,innovation management,industry 4.0,0.0
+SRCTITLE,innovation management,iot,0.0
+SRCTITLE,innovation management,smart factory,0.0
+SRCTITLE,innovation management,internet of things,0.0
+SRCTITLE,innovation management,cyber phycal system,0.0
+SRCTITLE,innovation management,wireless sensor network,0.0
+SRCTITLE,organizational change,industry 4.0,0.0
+SRCTITLE,organizational change,iot,0.0
+SRCTITLE,organizational change,smart factory,0.0
+SRCTITLE,organizational change,internet of things,0.0
+SRCTITLE,organizational change,cyber phycal system,0.0
+SRCTITLE,organizational change,wireless sensor network,0.0
+SRCTITLE,technological innovation,industry 4.0,0.0
+SRCTITLE,technological innovation,iot,0.0
+SRCTITLE,technological innovation,smart factory,0.0
+SRCTITLE,technological innovation,internet of things,0.0
+SRCTITLE,technological innovation,cyber phycal system,0.0
+SRCTITLE,technological innovation,wireless sensor network,0.0
+SRCTITLE,idea management,industry 4.0,0.0
+SRCTITLE,idea management,iot,0.0
+SRCTITLE,idea management,smart factory,0.0
+SRCTITLE,idea management,internet of things,0.0
+SRCTITLE,idea management,cyber phycal system,0.0
+SRCTITLE,idea management,wireless sensor network,0.0
+SRCTITLE,knowledge innovation,industry 4.0,0.0
+SRCTITLE,knowledge innovation,iot,0.0
+SRCTITLE,knowledge innovation,smart factory,0.0
+SRCTITLE,knowledge innovation,internet of things,0.0
+SRCTITLE,knowledge innovation,cyber phycal system,0.0
+SRCTITLE,knowledge innovation,wireless sensor network,0.0
+SRCTITLE,economic innovation,industry 4.0,0.0
+SRCTITLE,economic innovation,iot,0.0
+SRCTITLE,economic innovation,smart factory,0.0
+SRCTITLE,economic innovation,internet of things,0.0
+SRCTITLE,economic innovation,cyber phycal system,0.0
+SRCTITLE,economic innovation,wireless sensor network,0.0
+ABS,change management,industry 4.0,324.0
+ABS,change management,iot,698.0
+ABS,change management,smart factory,69.0
+ABS,change management,internet of things,818.0
+ABS,change management,cyber phycal system,0.0
+ABS,change management,wireless sensor network,465.0
+ABS,digital management,industry 4.0,439.0
+ABS,digital management,iot,696.0
+ABS,digital management,smart factory,82.0
+ABS,digital management,internet of things,948.0
+ABS,digital management,cyber phycal system,0.0
+ABS,digital management,wireless sensor network,317.0
+ABS,innovation management,industry 4.0,237.0
+ABS,innovation management,iot,325.0
+ABS,innovation management,smart factory,39.0
+ABS,innovation management,internet of things,425.0
+ABS,innovation management,cyber phycal system,0.0
+ABS,innovation management,wireless sensor network,103.0
+ABS,organizational change,industry 4.0,113.0
+ABS,organizational change,iot,49.0
+ABS,organizational change,smart factory,15.0
+ABS,organizational change,internet of things,64.0
+ABS,organizational change,cyber phycal system,0.0
+ABS,organizational change,wireless sensor network,6.0
+ABS,technological innovation,industry 4.0,247.0
+ABS,technological innovation,iot,245.0
+ABS,technological innovation,smart factory,27.0
+ABS,technological innovation,internet of things,381.0
+ABS,technological innovation,cyber phycal system,0.0
+ABS,technological innovation,wireless sensor network,50.0
+ABS,idea management,industry 4.0,89.0
+ABS,idea management,iot,278.0
+ABS,idea management,smart factory,16.0
+ABS,idea management,internet of things,318.0
+ABS,idea management,cyber phycal system,0.0
+ABS,idea management,wireless sensor network,163.0
+ABS,knowledge innovation,industry 4.0,136.0
+ABS,knowledge innovation,iot,138.0
+ABS,knowledge innovation,smart factory,24.0
+ABS,knowledge innovation,internet of things,225.0
+ABS,knowledge innovation,cyber phycal system,0.0
+ABS,knowledge innovation,wireless sensor network,40.0
+ABS,economic innovation,industry 4.0,141.0
+ABS,economic innovation,iot,119.0
+ABS,economic innovation,smart factory,16.0
+ABS,economic innovation,internet of things,172.0
+ABS,economic innovation,cyber phycal system,0.0
+ABS,economic innovation,wireless sensor network,15.0
