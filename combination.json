@@ -2,9 +2,9 @@
     "filter": [
         "TITLE",
         "KEY",
-        "SRCTITLE",
         "ABS"
     ],
+    
     "management": [
         "change management",
         "digital management",
